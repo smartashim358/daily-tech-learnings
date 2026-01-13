@@ -1,6 +1,6 @@
 # NumPy Python Library
 <p align="center">
-  <img src="images/Numpy.png" alt="NumPy Diagram" width="600">
+  <img src="../images/Numpy.png" alt="NumPy Diagram" width="600">
 </p>
 NumPy is a core Python library for numerical computing, built for
 handling large arrays and matrices efficiently. It is significantly
