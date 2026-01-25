@@ -268,7 +268,4 @@ import { Flex, VStack, Heading, Text, Button, Image } from '@chakra-ui/react';
 
 ---
 
-## Tips & Best Practices
-
-1. Wrap your app with `ChakraProvider`.  
-2. Use **Box, Stack, Flex, Grid** for layout — no CSS ne
+## Thank You For Reading
