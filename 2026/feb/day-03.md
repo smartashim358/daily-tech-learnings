@@ -5,7 +5,7 @@ Focused only on what is required for **backend development and hosting**.
 
 ---
 
-## 1. What is PID
+## 1. What is PID 
 **PID (Process ID)** is a unique number assigned to every running process.
 
 Used to:
